@@ -11,16 +11,13 @@ Basic Form:
 
 ![alt tag](https://github.com/learnseleniumtesting/AppiumTestApp/blob/master/www/img/basicForm.png)
 
-First and Last Name: 
+First and Last Name and Click Submit: 
 
-![alt tag](https://github.com/learnseleniumtesting/AppiumTestApp/blob/master/www/img/basicForm_fn_ln_only.png)
+![alt tag](https://github.com/learnseleniumtesting/AppiumTestApp/blob/master/www/img/basic_form_filled.png)
 
-Complete Form:
-
-![alt tag](https://github.com/learnseleniumtesting/AppiumTestApp/blob/master/www/img/basic_form_enabled_submit_button.png)
 
 Final Output:
 
-![alt tag](https://github.com/learnseleniumtesting/AppiumTestApp/blob/master/www/img/basic_form_output_reusult.png)
+![alt tag](https://github.com/learnseleniumtesting/AppiumTestApp/blob/master/www/img/basic_form_output.png)
 
 
