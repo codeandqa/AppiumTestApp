@@ -11,10 +11,13 @@
           <span class="input-label">LastName</span>
           <input type="text" name="lname" ng-model="loginData.lastname" required>
         </label>
-        <ion-checkbox ng-model="loginData.checked">Enable Submit Button</ion-checkbox>
-
+        <!--<ion-checkbox ng-model="loginData.checked">Enable Submit Button</ion-checkbox>-->
+        <!--<div class="item">-->
+          <!--<ion-radio id="agree" ng-model="loginData.checked" ng-value="'A'">Enable Submit Button</ion-radio>-->
+        <!--</div>-->
         <label class="item">
-          <button ng-disabled="!loginData.checked" class="button button-block button-positive" type="submit">Submit</button>
+          <!--<button ng-disabled="!loginData.checked" class="button button-block button-positive" type="submit">Submit</button>-->
+          <button ng-disabled="!true" class="button button-block button-positive" type="submit">Submit</button>
         </label>
 
       </div>
